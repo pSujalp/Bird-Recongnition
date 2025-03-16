@@ -2,7 +2,7 @@
 
 ### Bird detection model made on DearGUIPy which detects more than 267 species and the model is trained on tensorflow where it has improved F1 score with audio augmentation.
 
-
+[Link to Kaggle notebook](https://www.kaggle.com/code/pullagurasujal/leverging-bird-model) - **All of my output,dataset are present here**
 
 ![Image](https://github.com/user-attachments/assets/8323d9c8-1042-4ece-a3cf-277a6770a2b9)
 
