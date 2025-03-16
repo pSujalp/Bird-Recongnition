@@ -1,6 +1,6 @@
 # Bird Leverging model on BirdCelf 2023 dataset
 
-### Bird detection model made on DearGUIPy which detects more than 267 species and the model is trained on tensorflow where it has improved F1 score with audio augmentation.
+### Bird detection model made on DearGUIPy which detects more than 267 species and the model is trained on EfficientNET where it has improved F1 score with audio augmentation.
 
 [Link to Kaggle notebook](https://www.kaggle.com/code/pullagurasujal/leverging-bird-model) - **All of my output,dataset are present here**
 
